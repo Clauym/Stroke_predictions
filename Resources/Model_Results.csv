@@ -11,3 +11,5 @@ Index,index,Predicted 0,Predicted 1,Model,Accuracy
 1,Actual 1,103,19,Decision Tree,0.9140907266158169
 0,Actual 0,2369,0,Oversampled Tree,1.0
 1,Actual 1,0,122,Oversampled Tree,1.0
+0,Actual 0,0,0,Neural Networks,0.944622814655304
+1,Actual1,0,0,Neural Networks,0.944622814655304
