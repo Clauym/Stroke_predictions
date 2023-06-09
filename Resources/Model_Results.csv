@@ -1,0 +1,13 @@
+Index,index,Predicted 0,Predicted 1,Model,Accuracy
+0,Actual 0,2360,2,Random Forest,0.9474106784423926
+1,Actual 1,129,0,Random Forest,0.9474106784423926
+0,Actual 0,2362,0,Oversampled Forest,1.0
+1,Actual 1,0,129,Oversampled Forest,1.0
+0,Actual 0,1178,0,Logistic Regression,0.5074
+1,Actual 1,67,1,Logistic Regression,0.5074
+0,Actual 0,1178,0,Oversampled Regression,0.7823
+1,Actual 1,67,1,Oversampled Regression,0.7823
+0,Actual 0,2258,111,Decision Tree,0.9140907266158169
+1,Actual 1,103,19,Decision Tree,0.9140907266158169
+0,Actual 0,2369,0,Oversampled Tree,1.0
+1,Actual 1,0,122,Oversampled Tree,1.0
