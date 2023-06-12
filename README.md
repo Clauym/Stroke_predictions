@@ -33,26 +33,16 @@ Note: this cover has been cropped from the original size. Image Credit: [Piyapha
 The dataset was found in Kaggle under the following link:
 <https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset> <br>
 and it consists of 10 different features related to strokes.
-
 The variables are:
-Age
-
-Bmi
-
-Average glucose level
-
-Gender -Male or Female
-
-Hypertension -Yes or no
-
-Heart disease -Yes or no
-
-Ever married - Yes or no
-
-Residence type -Urban or Rural
-
-Smoking status - smoker, former smoker, never smoked, unknown
-
+Age,
+Bmi,
+Average glucose level,
+Gender -Male or Female,
+Hypertension -Yes or no,
+Heart disease -Yes or no,
+Ever married - Yes or no,
+Residence type -Urban or Rural,
+Smoking status - smoker, former smoker, never smoked, unknown,
 Work type - Children, Government job, Never worked, Private or Self-employed
 
 ## Scope of the project
