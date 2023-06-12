@@ -90,4 +90,4 @@ e. After running the models we tried to correct the unbalance in the dataset by 
 We progressed through the various models because the first models ran did not produce accuracy results sufficient to our liking. We also saw the Decision Tree and Random Forest models were the best ones after oversampling them.
 
 ### Visualization of data
-As a final point we created some visuals in a Tableau Dashboard.
+As a final point we created some visuals in a Tableau Dashboards.
