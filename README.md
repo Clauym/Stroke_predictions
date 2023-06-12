@@ -31,8 +31,7 @@ Note: this cover has been cropped from the original size. Image Credit: [Piyapha
 
 ## Dataset
 The dataset was found in Kaggle under the following link:
-<https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset> <br>
-and it consists of 10 different features related to strokes.
+<https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset> <br>, and it consists of 10 different features related to strokes.
 The variables are:
 Age,
 Bmi,
