@@ -59,6 +59,7 @@ e. After running the models we tried to correct the unbalance in the dataset by 
    - Total accuracy: 0.50.
    - Precision of stroke predictions: 1.0
    - Recall of strokes predictions: 0.01 <br>
+   
 *Oversampled*
    - Total accuracy: 0.78.
    - Precision of stroke predictions: 0.16
@@ -67,6 +68,7 @@ e. After running the models we tried to correct the unbalance in the dataset by 
    - Total accuracy: 0.91.
    - Precision of stroke predictions: 0.15
    - Recall of strokes predictions: 0.16 <br>
+   
 *Oversampled*
    - Total accuracy: 1.00.
    - Precision of stroke predictions: 1.00
@@ -75,13 +77,15 @@ e. After running the models we tried to correct the unbalance in the dataset by 
    - Total accuracy: 0.95.
    - Precision of stroke predictions: 0.00
    - Recall of strokes predictions: 0.00 <br>
+   
 *Oversampled*
    - Total accuracy: 1.00.
    - Precision of stroke predictions: 1.00
    - Recall of strokes predictions: 1.00<br>
+   
 4. NEURAL NETWORK MODEL
    - Total accuracy: 0.94.
-   - 
+    
 We progressed through the various models because the first models ran did not produce accuracy results sufficient to our liking. We also saw the Decision Tree and Random Forest models were the best ones after oversampling them.
 
 ### Visualization of data
